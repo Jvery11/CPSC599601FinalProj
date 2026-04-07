@@ -12,6 +12,13 @@ https://assetstore.unity.com/packages/2d/textures-materials/glass/stylized-grass
 Font:
 https://www.1001fonts.com/chalk-board-font.html
 
+Animated hands:
+Followed a youtube video which also provided a link to the  assets:
+https://www.youtube.com/watch?v=9l2pEJJ3_qE&list=PLpEoiloH-4eM15HYUXK_2a6rldDDx8FcF&index=5
+
+
+background music:
+https://pixabay.com/sound-effects/musical-vlog-soft-background-music-silver-thread-short-preview-497598/
 
 Scripts:
 
